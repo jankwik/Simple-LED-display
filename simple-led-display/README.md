@@ -8,7 +8,7 @@ The required hardware is as follows:
 
 * A TM1651-compatible LED display - like the ones used on Goteks.
 
-Most of the hard work is done by the GotekLEDC68-project by Derek Cooper ([GitHub - coopzone-dc/GotekLEDC68: This is an arduino library for using re-purposed LEDC68 3 digit LED displays from GoTek Drives](https://github.com/coopzone-dc/GotekLEDC68)) , from which I have lent the TM1651.h/.cpp-files - and left them completly unchanged. 
+Most of the hard work is done by the GotekLEDC68-project by Derek Cooper ([GitHub - coopzone-dc/GotekLEDC68: This is an arduino library for using re-purposed LEDC68 3 digit LED displays from GoTek Drives](https://github.com/coopzone-dc/GotekLEDC68)) , from which I have lent the TM1651.h/.cpp-files - and left them completely unchanged. 
 
 ### Future enhancements
 
