@@ -1,4 +1,8 @@
-# Simple LED display
+#MOVED
+
+https://codeberg.org/jankwik/retro_simple_led_display
+
+### Simple LED display
 
 A very simple example of how an LED display may be used to display the speed of a (retro) PC. At the moment it is so simple that it only displays a fixed speed (133 MHz, which just happens to be the speed of one of my DOS machines). 
 
